@@ -1,58 +1,42 @@
-import React, { useState } from 'react';
-import './App.css';
+import React, { useState } from "react";
+import NavigationBar from "./components/NavigationBar";  // Navigation Bar Component
+import { Routes, Route } from "react-router-dom";
+import HomePage from "./components/HomePage";            // Home Page with To-Do List
+import AboutPage from "./components/AboutPage";          // About Page
+import ContactPage from "./components/ContactPage";      // Contact Page
+import ServicesPage from "./components/ServicesPage";    // Services Page
+import TodoList from "./components/TodoList";            // To-Do List Page
+import AddTask from "./components/AddTask";              // Add Task Form
 
 const App = () => {
   const [tasks, setTasks] = useState([]);
-  const [task, setTask] = useState('');
 
-  const handleAddTask = () => {
-    if (task.trim()) {
-      setTasks([...tasks, { text: task, completed: false }]);
-      setTask('');
-    }
+  const addTask = (taskText) => {
+    setTasks([...tasks, { text: taskText, completed: false }]);
   };
 
-  const handleToggleCompletion = (index) => {
+  const toggleTask = (index) => {
     const updatedTasks = [...tasks];
     updatedTasks[index].completed = !updatedTasks[index].completed;
     setTasks(updatedTasks);
   };
 
-  const handleDeleteTask = (index) => {
+  const deleteTask = (index) => {
     const updatedTasks = tasks.filter((_, i) => i !== index);
     setTasks(updatedTasks);
   };
 
   return (
-    <div className="app">
-      <div className="todo-container">
-        <h1 className="title">To-Do List</h1>
-
-        <div className="input-container">
-          <input
-            type="text"
-            value={task}
-            onChange={(e) => setTask(e.target.value)}
-            placeholder="Enter a task"
-            className="task-input"
-          />
-          <button onClick={handleAddTask} className="add-btn">Add Task</button>
-        </div>
-
-        <ul className="task-list">
-          {tasks.map((task, index) => (
-            <li
-              key={index}
-              className={`task-item ${task.completed ? 'completed' : ''}`}
-            >
-              <span onClick={() => handleToggleCompletion(index)} className="task-text">
-                {task.text}
-              </span>
-              <button onClick={() => handleDeleteTask(index)} className="delete-btn">Delete</button>
-            </li>
-          ))}
-        </ul>
-      </div>
+    <div className="App">
+      <NavigationBar />
+      <Routes>
+        <Route path="/home" element={<HomePage />} />
+        <Route path="/about" element={<AboutPage />} />
+        <Route path="/contact" element={<ContactPage />} />
+        <Route path="/services" element={<ServicesPage />} />
+        <Route path="/todo" element={<TodoList tasks={tasks} toggleTask={toggleTask} deleteTask={deleteTask} />} />
+        <Route path="/add-task" element={<AddTask addTask={addTask} />} />
+      </Routes>
     </div>
   );
 };
