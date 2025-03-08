@@ -1,0 +1,31 @@
+﻿<Page x:Class="ToDoApp.SignUpPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Sign Up Page">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="Sign Up" FontSize="40" FontWeight="Bold" HorizontalAlignment="Center" Margin="10"/>
+
+            <Grid Margin="5">
+                <TextBox Name="NewUsernameTextBox" Margin="-55,0,-60,0" GotFocus="NewUsernameTextBox_GotFocus" LostFocus="NewUsernameTextBox_LostFocus" Text="New Username" Height="30"  Foreground="Gray" TextChanged="NewUsernameTextBox_TextChanged_1"/>
+            </Grid>
+
+            
+            <TextBlock Name="UsernameError" Foreground="Red" FontSize="12" Visibility="Collapsed"/>
+
+          
+            <Grid Margin="5" VerticalAlignment="Center">
+                <PasswordBox Name="NewPasswordBox" Margin="-55,0,-60,0" GotFocus="NewPasswordBox_GotFocus" LostFocus="NewPasswordBox_LostFocus" Height="30"/>
+            </Grid>
+
+           
+            <TextBlock Name="PasswordError" Foreground="Red" FontSize="12" Visibility="Collapsed"/>
+
+         
+            <Button Content="Create Account" Click="CreateAccountButton_Click" FontWeight="SemiBold" Margin="5" Width="185"/>
+
+            
+            <Button Content="Back to Login" Click="BackToLoginButton_Click" FontWeight="SemiBold" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Page>

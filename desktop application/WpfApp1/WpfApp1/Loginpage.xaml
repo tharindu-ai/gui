@@ -1,0 +1,27 @@
+﻿<Page x:Class="ToDoApp.LoginPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Login Page">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="Login" FontSize="50" FontWeight="Bold" HorizontalAlignment="Center"/>
+
+            
+            <TextBox Name="UsernameTextBox" Width="350" Height="30" Margin="5" 
+                     Text="Username" Foreground="Black" FontWeight="Bold"
+                     GotFocus="UsernameTextBox_GotFocus" 
+                     LostFocus="UsernameTextBox_LostFocus"/>
+            <TextBlock x:Name="PasswordPlaceholder" Text="Password" Foreground="Black" FontWeight="Bold"
+                       IsHitTestVisible="False" Width="344" RenderTransformOrigin="0.5,2.406"/>
+
+            <PasswordBox Name="PasswordBox" Width="350" Height="30" Margin="5" 
+                         PasswordChanged="PasswordBox_PasswordChanged"/>
+
+          
+            <Button Name="LoginButton" Content="Login" Click="LoginButton_Click" FontWeight="Bold" Margin="5"/>
+
+            
+            <Button Name="SignUpButton" Content="Sign Up" Click="SignUpButton_Click" FontWeight="Bold" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Page>
