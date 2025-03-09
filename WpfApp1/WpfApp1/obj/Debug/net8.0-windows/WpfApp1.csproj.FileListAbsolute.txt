@@ -1,0 +1,92 @@
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\HomePage.baml
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Loginpage.baml
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\SignUpPage.baml
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\TaskAddPage.baml
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\TaskSavePage.baml
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\HomePage.g.cs
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Loginpage.g.cs
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\SignUpPage.g.cs
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\TaskAddPage.g.cs
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\TaskSavePage.g.cs
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+C:\Users\hp\Desktop\project\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\HomePage.baml
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Loginpage.baml
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\SignUpPage.baml
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\TaskAddPage.baml
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\TaskSavePage.baml
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\HomePage.g.cs
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Loginpage.g.cs
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\SignUpPage.g.cs
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\TaskAddPage.g.cs
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\TaskSavePage.g.cs
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\hp\Desktop\project\web appilication\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\HomePage.baml
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Loginpage.baml
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\SignUpPage.baml
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\TaskAddPage.baml
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\TaskSavePage.baml
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\HomePage.g.cs
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Loginpage.g.cs
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\SignUpPage.g.cs
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\TaskAddPage.g.cs
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\TaskSavePage.g.cs
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\TaskEditPage.baml
+C:\Users\hp\Desktop\continue web\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\TaskEditPage.g.cs
