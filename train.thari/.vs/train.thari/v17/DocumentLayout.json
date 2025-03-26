@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DSA PROJECT\\train.thari\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA00763C-72A7-4637-97A5-0B432AF5FE35}|train.thari\\train.thari.csproj|d:\\dsa project\\train.thari\\train.thari\\part1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA00763C-72A7-4637-97A5-0B432AF5FE35}|train.thari\\train.thari.csproj|solutionrelative:train.thari\\part1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA00763C-72A7-4637-97A5-0B432AF5FE35}|train.thari\\train.thari.csproj|d:\\dsa project\\train.thari\\train.thari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA00763C-72A7-4637-97A5-0B432AF5FE35}|train.thari\\train.thari.csproj|solutionrelative:train.thari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA00763C-72A7-4637-97A5-0B432AF5FE35}|train.thari\\train.thari.csproj|d:\\dsa project\\train.thari\\train.thari\\seatavailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA00763C-72A7-4637-97A5-0B432AF5FE35}|train.thari\\train.thari.csproj|solutionrelative:train.thari\\seatavailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA00763C-72A7-4637-97A5-0B432AF5FE35}|train.thari\\train.thari.csproj|d:\\dsa project\\train.thari\\train.thari\\part4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA00763C-72A7-4637-97A5-0B432AF5FE35}|train.thari\\train.thari.csproj|solutionrelative:train.thari\\part4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA00763C-72A7-4637-97A5-0B432AF5FE35}|train.thari\\train.thari.csproj|d:\\dsa project\\train.thari\\train.thari\\part2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA00763C-72A7-4637-97A5-0B432AF5FE35}|train.thari\\train.thari.csproj|solutionrelative:train.thari\\part2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA00763C-72A7-4637-97A5-0B432AF5FE35}|train.thari\\train.thari.csproj|d:\\dsa project\\train.thari\\train.thari\\part3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA00763C-72A7-4637-97A5-0B432AF5FE35}|train.thari\\train.thari.csproj|solutionrelative:train.thari\\part3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA00763C-72A7-4637-97A5-0B432AF5FE35}|train.thari\\train.thari.csproj|d:\\dsa project\\train.thari\\train.thari\\menu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA00763C-72A7-4637-97A5-0B432AF5FE35}|train.thari\\train.thari.csproj|solutionrelative:train.thari\\menu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeatAvailability.cs",
+              "DocumentMoniker": "D:\\DSA PROJECT\\train.thari\\train.thari\\SeatAvailability.cs",
+              "RelativeDocumentMoniker": "train.thari\\SeatAvailability.cs",
+              "ToolTip": "D:\\DSA PROJECT\\train.thari\\train.thari\\SeatAvailability.cs",
+              "RelativeToolTip": "train.thari\\SeatAvailability.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:38:10.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "part4.cs",
+              "DocumentMoniker": "D:\\DSA PROJECT\\train.thari\\train.thari\\part4.cs",
+              "RelativeDocumentMoniker": "train.thari\\part4.cs",
+              "ToolTip": "D:\\DSA PROJECT\\train.thari\\train.thari\\part4.cs",
+              "RelativeToolTip": "train.thari\\part4.cs",
+              "ViewState": "AgIAAEUAAACgmZmZmZktwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:37:10.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DSA PROJECT\\train.thari\\train.thari\\Program.cs",
+              "RelativeDocumentMoniker": "train.thari\\Program.cs",
+              "ToolTip": "D:\\DSA PROJECT\\train.thari\\train.thari\\Program.cs",
+              "RelativeToolTip": "train.thari\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:32:18.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "part3.cs",
+              "DocumentMoniker": "D:\\DSA PROJECT\\train.thari\\train.thari\\part3.cs",
+              "RelativeDocumentMoniker": "train.thari\\part3.cs",
+              "ToolTip": "D:\\DSA PROJECT\\train.thari\\train.thari\\part3.cs",
+              "RelativeToolTip": "train.thari\\part3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:36:39.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "part2.cs",
+              "DocumentMoniker": "D:\\DSA PROJECT\\train.thari\\train.thari\\part2.cs",
+              "RelativeDocumentMoniker": "train.thari\\part2.cs",
+              "ToolTip": "D:\\DSA PROJECT\\train.thari\\train.thari\\part2.cs",
+              "RelativeToolTip": "train.thari\\part2.cs",
+              "ViewState": "AgIAAC0AAACAy8zMzMwowFUAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:36:03.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "part1.cs",
+              "DocumentMoniker": "D:\\DSA PROJECT\\train.thari\\train.thari\\part1.cs",
+              "RelativeDocumentMoniker": "train.thari\\part1.cs",
+              "ToolTip": "D:\\DSA PROJECT\\train.thari\\train.thari\\part1.cs",
+              "RelativeToolTip": "train.thari\\part1.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAuwMkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:34:54.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "menu1.cs",
+              "DocumentMoniker": "D:\\DSA PROJECT\\train.thari\\train.thari\\menu1.cs",
+              "RelativeDocumentMoniker": "train.thari\\menu1.cs",
+              "ToolTip": "D:\\DSA PROJECT\\train.thari\\train.thari\\menu1.cs",
+              "RelativeToolTip": "train.thari\\menu1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:34:18.211Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

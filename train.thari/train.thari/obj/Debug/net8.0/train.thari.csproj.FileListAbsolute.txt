@@ -1,0 +1,14 @@
+D:\train.thari\train.thari\bin\Debug\net8.0\train.thari.exe
+D:\train.thari\train.thari\bin\Debug\net8.0\train.thari.deps.json
+D:\train.thari\train.thari\bin\Debug\net8.0\train.thari.runtimeconfig.json
+D:\train.thari\train.thari\bin\Debug\net8.0\train.thari.dll
+D:\train.thari\train.thari\bin\Debug\net8.0\train.thari.pdb
+D:\train.thari\train.thari\obj\Debug\net8.0\train.thari.GeneratedMSBuildEditorConfig.editorconfig
+D:\train.thari\train.thari\obj\Debug\net8.0\train.thari.AssemblyInfoInputs.cache
+D:\train.thari\train.thari\obj\Debug\net8.0\train.thari.AssemblyInfo.cs
+D:\train.thari\train.thari\obj\Debug\net8.0\train.thari.csproj.CoreCompileInputs.cache
+D:\train.thari\train.thari\obj\Debug\net8.0\train.thari.dll
+D:\train.thari\train.thari\obj\Debug\net8.0\refint\train.thari.dll
+D:\train.thari\train.thari\obj\Debug\net8.0\train.thari.pdb
+D:\train.thari\train.thari\obj\Debug\net8.0\train.thari.genruntimeconfig.cache
+D:\train.thari\train.thari\obj\Debug\net8.0\ref\train.thari.dll
